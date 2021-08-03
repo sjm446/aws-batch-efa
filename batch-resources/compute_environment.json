@@ -19,5 +19,5 @@
       "version": "$Latest"
     }
   },
-  "serviceRole": "arn:aws:iam::<account-id>:role/AWSBatchServiceRole"
+  "serviceRole": "arn:aws:iam::<account-id>:role/service-role/AWSBatchServiceRole""
 }
